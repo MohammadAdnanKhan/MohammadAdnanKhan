@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mohd Adnan Khan
+- 💻 I am currently pursuing Btech and this is my 1st sem going on
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning C language
+- 📫You can reach me through my email i.e. adnankhanmak1786@gmail.com
