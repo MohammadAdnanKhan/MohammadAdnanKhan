@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohd Adnan Khan
+- 👋 Hi, I’m @student-Jamia Millia Islamia
 - 💻 I am currently pursuing Btech and this is my 1st sem going on
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning C language
