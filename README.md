@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @student-Jamia Millia Islamia
-- 💻 I am currently pursuing Btech and this is my 2nd sem going on
+- 💻 I am currently pursuing Btech and this is my 3rd sem going on
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently sharpening my skills in DSA
 - 🌱 Fluent in Java; proficient in C and Python
