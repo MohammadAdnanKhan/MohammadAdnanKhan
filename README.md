@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @student-Jamia Millia Islamia
+- 👋 Hi, I’m @student-***Jamia Millia Islamia***
 - 💻 I am currently pursuing Btech and this is my 3rd sem going on
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently sharpening my skills in Data Science and DSA
