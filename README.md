@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohdadnankhan001" alt="mohdadnankhan001" /></a> </p>
 
-- 👋 I’m @student-Jamia Millia Islamia**
+- 👋 I’m a student at Jamia Millia Islamia
 
 - 💻 I am currently pursuing Btech and this is my 3rd sem going on
 
