@@ -29,10 +29,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohdadnankhan001&show_icons=true&locale=en&layout=compact" alt="mohdadnankhan001" /></p>
 
+<div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohdadnankhan001&show_icons=true&locale=en" alt="mohdadnankhan001" /></p>
-
+  </div>
+<div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdadnankhan001&" alt="mohdadnankhan001" /></p>
-
+</div>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohdAdnanKhan001&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
