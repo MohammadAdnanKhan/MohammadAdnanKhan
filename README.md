@@ -31,8 +31,6 @@
 
 <div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohdadnankhan001&show_icons=true&locale=en" alt="mohdadnankhan001" /></p>
-  </div>
-<div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdadnankhan001&" alt="mohdadnankhan001" /></p>
 </div>
 <div align="center">
