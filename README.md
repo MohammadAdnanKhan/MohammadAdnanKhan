@@ -37,3 +37,12 @@
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohdAdnanKhan001&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"/>
   
+</br>
+img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thre4dripper&theme=dracula" width="100%" />
+
+<div style="width: 100%;">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MohdAdnanKhan001&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" style="width: 58%; height: auto;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thre4dripper&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="width: 41%; height: auto;">
+</div>
+
+</br>
