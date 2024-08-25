@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohd Adnan Khan</h1>
 <h3 align="center">An aspiring Data Scientist</h3>
-
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MohammadAdnanKhan&label=Profile%20views&color=0e75b6&style=flat" alt="MohammadAdnanKhan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MohammadAdnanKhan" alt="MohammadAdnanKhan" /></a> </p>
 
@@ -38,4 +37,3 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadAdnanKhan&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"/>
   
 </br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MohammadAdnanKhan&label=Profile%20views&color=0e75b6&style=flat" alt="MohammadAdnanKhan" /> </p>
