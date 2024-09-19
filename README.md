@@ -8,7 +8,7 @@
 
 - 💻 I am currently pursuing **Btech** and this is my **3rd semester** going on
 
-- 🔭 I’m currently working on [SpaceX Data Science Project](https://github.com/MohammadAdnanKhan/SpaceX-Data-Science-Project)
+- 🔭 I’m currently working on [Deep Learning](https://github.com/MohammadAdnanKhan/30-Days-of-Deep-Learning)
 
 - 🌱 I’m currently learning **Data Science, Machine Learning, MERN Stack**
 
