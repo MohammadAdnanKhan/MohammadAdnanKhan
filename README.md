@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Mohd Adnan Khan</h1>
-<h3 align="center">An aspiring Data Scientist</h3>
+<h3 align="center">An aspiring Machine Learning Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohammadAdnanKhan&label=Profile%20views&color=0e75b6&style=flat" alt="MohammadAdnanKhan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MohammadAdnanKhan" alt="MohammadAdnanKhan" /></a> </p>
 
 - 👋 I’m a student at **Jamia Millia Islamia, New Delhi**
 
-- 💻 I am currently pursuing **Btech** and this is my **3rd semester** going on
+- 💻 I am currently pursuing **Btech** and this is my **5th semester** going on
 
-- 🔭 I’m currently working on [Deep Learning](https://github.com/MohammadAdnanKhan/30-Days-of-Deep-Learning)
+- 🔭 I’m currently working on several cool projects, contact to colaborate
 
-- 🌱 I’m currently learning **Data Science, Machine Learning, MERN Stack**
+- 🌱 I’m currently learning **Data Science, Machine Learning, PERN Stack and DSA**
 
 - 💬 Ask me about **Data Science and related domains**
 
-- 📫 How to reach me **mohdadnankhan.1308@gmail.com**
+- 📫 How to reach me **mohdadnankhan.india@gmail.com**
 
 - ⚡ Fun Fact **Without Data You Are Just Another Person With An Opinion**
 
