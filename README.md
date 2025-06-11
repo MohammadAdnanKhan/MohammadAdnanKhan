@@ -8,7 +8,7 @@
 
 - 💻 I am currently pursuing **Btech** and this is my **5th semester** going on
 
-- 🔭 I’m currently working on several cool projects, contact to colaborate
+- 🔭 I’m currently working on several cool projects, contact to collaborate
 
 - 🌱 I’m currently learning **Data Science, Machine Learning, PERN Stack and DSA**
 
