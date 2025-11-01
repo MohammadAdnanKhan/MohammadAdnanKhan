@@ -83,7 +83,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadAdnanKhan&theme=default&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=MohammadAdnanKhan&theme=default&hide_border=false" height="180"/>
 </p>
 
 ---
